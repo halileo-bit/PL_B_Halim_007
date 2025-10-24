@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Masukkan jumlah angka: ");
+        System.out.print("Masukkan: ");
         int n = scanner.nextInt();
 
         int[] angka = new int[n];
