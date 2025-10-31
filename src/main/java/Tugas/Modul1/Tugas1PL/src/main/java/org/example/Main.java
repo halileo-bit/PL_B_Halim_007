@@ -1,4 +1,4 @@
-package org.example;
+package Tugas.Modul1.Tugas1PL.src.main.java.org.example;
 
 import java.util.Scanner;
 
