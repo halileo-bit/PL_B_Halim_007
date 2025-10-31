@@ -57,12 +57,12 @@ public class Tugas1 {
         ArrayList<Pesanan> daftarPesanan = new ArrayList<>();
 
         // Menambahkan beberapa item ke daftar menu
-        daftarMenu.add(new Menu("Nasi Goreng", 15000));
-        daftarMenu.add(new Menu("Mie Ayam", 12000));
-        daftarMenu.add(new Menu("Ayam Bakar", 20000));
-        daftarMenu.add(new Menu("Es Teh Manis", 5000));
+        daftarMenu.add(new Menu("Tahu Jeletot", 15000));
+        daftarMenu.add(new Menu("Ayam Geprek", 12000));
+        daftarMenu.add(new Menu("Semur Jengkol", 20000));
+        daftarMenu.add(new Menu("Es Jeruk", 5000));
 
-        System.out.println("Selamat Datang di Restoran Sederhana!");
+        System.out.println("Selamat Datang di Warung Makan Penacony!");
         System.out.println("=====================================");
 
         int pilihan;
